@@ -1,24 +1,5 @@
 #coding=utf-8
 
-Massage_Author = """
-
-~~> Open Source Code Syarat? Subrek Channel Gua & Jangan Ganti Bot Follow! Cukup Tambahkan Bot Follow Sajah!
-
-~~> Ingat Ini Hanya Untuk Contoh Project!. Kalo Mau Recode, Recode Ajah Itung² Buat Latihan Lu
-
-~~> Kalo Mau Izin, Izin lewat instgrm/email/fb Ajah
-
-~~> insgrm : https://www.instagram.com/ngemry7
-
-~~> email  : xgansb@gmail.com
-
-~~> fb     : https://www.facebook.com/meyrina.setyaningrum
-
-~~> Maaf klo codinganya berantakan dan banyak bug:)
-
-"""
-
-
 
 import requests,bs4,sys,os,random,time,re,json
 import calendar,deku,orbxd
@@ -92,7 +73,7 @@ banner = ("""
   _________ ____  ___ _____.___.
  /   _____/ \   \/  / \__  |   |
  \_____  \   \     /   /   |   |
- /        \  /     \   \____   |
+ /        \  /     \   \____   |Au:ShellyScott
 /_______  / /___/\  \  / ______|
         \/        \_/  \/       \n
   \033[1;33m•\033[1;91m•\033[1;37m New Tools Hack Facebook Random \033[1;33m•\033[1;91m•\033[1;37m
@@ -102,7 +83,7 @@ logo = """
  _________ ____  ___ _____.___.
  /   _____/ \   \/  / \__  |   |
  \_____  \   \     /   /   |   |
- /        \  /     \   \____   |
+ /        \  /     \   \____   |Au:ShellyScott
 /_______  / /___/\  \  / ______|
         \/        \_/  \/       \n"""
 
